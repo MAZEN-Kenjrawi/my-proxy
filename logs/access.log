@@ -1,0 +1,4 @@
+172.23.0.1 - - [12/Jun/2022:19:05:59 +0000] "GET /products HTTP/1.1" 200 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+172.24.0.1 - - [12/Jun/2022:19:09:04 +0000] "GET /products HTTP/1.1" 200 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+172.24.0.1 - - [12/Jun/2022:19:09:29 +0000] "GET /microservice-products HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+172.24.0.1 - - [12/Jun/2022:19:09:56 +0000] "GET /products HTTP/1.1" 200 60 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
