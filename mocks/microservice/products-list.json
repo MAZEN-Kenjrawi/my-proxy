@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/microservice-products"
+  },
+  "response": {
+    "status": 201,
+    "body": "Hello world! from microservice",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
